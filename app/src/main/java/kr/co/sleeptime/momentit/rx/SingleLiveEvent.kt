@@ -1,4 +1,4 @@
-package kr.co.sleeptime.androidseed.rx
+package kr.co.sleeptime.momentit.rx
 
 import androidx.annotation.MainThread
 import androidx.lifecycle.LifecycleOwner

@@ -1,4 +1,4 @@
-package kr.co.sleeptime.androidseed.rx
+package kr.co.sleeptime.momentit.rx
 
 import io.reactivex.Observable
 import io.reactivex.subjects.BehaviorSubject

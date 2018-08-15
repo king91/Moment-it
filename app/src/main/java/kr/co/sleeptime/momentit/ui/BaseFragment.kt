@@ -1,4 +1,4 @@
-package kr.co.sleeptime.androidseed.ui
+package kr.co.sleeptime.momentit.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater

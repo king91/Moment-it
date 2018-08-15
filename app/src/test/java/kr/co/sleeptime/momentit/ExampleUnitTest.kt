@@ -1,4 +1,4 @@
-package kr.co.sleeptime.androidseed
+package kr.co.sleeptime.momentit
 
 import org.junit.Test
 

@@ -1,10 +1,10 @@
-package kr.co.sleeptime.androidseed.ui
+package kr.co.sleeptime.momentit.ui
 
 import android.os.Bundle
 import androidx.annotation.LayoutRes
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
-import kr.co.sleeptime.androidseed.R
+import kr.co.sleeptime.momentit.R
 
 
 abstract class BaseActivity : AppCompatActivity() {

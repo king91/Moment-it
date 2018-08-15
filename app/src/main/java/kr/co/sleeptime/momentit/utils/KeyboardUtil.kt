@@ -1,4 +1,4 @@
-package kr.co.sleeptime.androidseed.utils
+package kr.co.sleeptime.momentit.utils
 
 import android.app.Activity
 import android.graphics.Rect
